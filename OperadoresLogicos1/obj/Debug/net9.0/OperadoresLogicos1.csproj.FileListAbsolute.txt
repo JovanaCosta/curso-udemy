@@ -1,0 +1,14 @@
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\bin\Debug\net9.0\OperadoresLogicos1.exe
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\bin\Debug\net9.0\OperadoresLogicos1.deps.json
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\bin\Debug\net9.0\OperadoresLogicos1.runtimeconfig.json
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\bin\Debug\net9.0\OperadoresLogicos1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\bin\Debug\net9.0\OperadoresLogicos1.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\OperadoresLogicos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\OperadoresLogicos1.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\OperadoresLogicos1.AssemblyInfo.cs
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\OperadoresLogicos1.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\OperadoresLogicos1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\refint\OperadoresLogicos1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\OperadoresLogicos1.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\OperadoresLogicos1.genruntimeconfig.cache
+C:\Users\jovan\source\repos\CSFundamentos1\OperadoresLogicos1\obj\Debug\net9.0\ref\OperadoresLogicos1.dll

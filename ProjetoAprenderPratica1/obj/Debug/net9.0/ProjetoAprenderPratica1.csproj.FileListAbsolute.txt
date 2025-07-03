@@ -1,0 +1,14 @@
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\bin\Debug\net9.0\ProjetoAprenderPratica1.exe
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\bin\Debug\net9.0\ProjetoAprenderPratica1.deps.json
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\bin\Debug\net9.0\ProjetoAprenderPratica1.runtimeconfig.json
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\bin\Debug\net9.0\ProjetoAprenderPratica1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\bin\Debug\net9.0\ProjetoAprenderPratica1.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ProjetoAprenderPratica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ProjetoAprenderPratica1.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ProjetoAprenderPratica1.AssemblyInfo.cs
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ProjetoAprenderPratica1.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ProjetoAprenderPratica1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\refint\ProjetoAprenderPratica1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ProjetoAprenderPratica1.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ProjetoAprenderPratica1.genruntimeconfig.cache
+C:\Users\jovan\source\repos\CSFundamentos1\ProjetoAprenderPratica1\obj\Debug\net9.0\ref\ProjetoAprenderPratica1.dll

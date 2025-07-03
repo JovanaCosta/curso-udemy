@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AulaDoMeuAmor2/1.0.0": {
+        "runtime": {
+          "AulaDoMeuAmor2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaDoMeuAmor2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

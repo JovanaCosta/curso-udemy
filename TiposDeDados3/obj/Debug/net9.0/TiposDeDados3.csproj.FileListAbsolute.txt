@@ -1,0 +1,14 @@
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\bin\Debug\net9.0\TiposDeDados3.exe
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\bin\Debug\net9.0\TiposDeDados3.deps.json
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\bin\Debug\net9.0\TiposDeDados3.runtimeconfig.json
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\bin\Debug\net9.0\TiposDeDados3.dll
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\bin\Debug\net9.0\TiposDeDados3.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\TiposDeDados3.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\TiposDeDados3.AssemblyInfo.cs
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\TiposDeDados3.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\TiposDeDados3.dll
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\refint\TiposDeDados3.dll
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\TiposDeDados3.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\TiposDeDados3.genruntimeconfig.cache
+C:\Users\jovan\source\repos\CSFundamentos1\TiposDeDados3\obj\Debug\net9.0\ref\TiposDeDados3.dll

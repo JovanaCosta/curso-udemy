@@ -1,0 +1,14 @@
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\bin\Debug\net9.0\AulaDoMeuAmor2.exe
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\bin\Debug\net9.0\AulaDoMeuAmor2.deps.json
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\bin\Debug\net9.0\AulaDoMeuAmor2.runtimeconfig.json
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\bin\Debug\net9.0\AulaDoMeuAmor2.dll
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\bin\Debug\net9.0\AulaDoMeuAmor2.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\AulaDoMeuAmor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\AulaDoMeuAmor2.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\AulaDoMeuAmor2.AssemblyInfo.cs
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\AulaDoMeuAmor2.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\AulaDoMeuAmor2.dll
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\refint\AulaDoMeuAmor2.dll
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\AulaDoMeuAmor2.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\AulaDoMeuAmor2.genruntimeconfig.cache
+C:\Users\jovan\source\repos\CSFundamentos1\AulaDoMeuAmor2\obj\Debug\net9.0\ref\AulaDoMeuAmor2.dll

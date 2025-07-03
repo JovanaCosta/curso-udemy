@@ -1,0 +1,14 @@
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net9.0\OperadorUniarioTernario1.exe
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net9.0\OperadorUniarioTernario1.deps.json
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net9.0\OperadorUniarioTernario1.runtimeconfig.json
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net9.0\OperadorUniarioTernario1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net9.0\OperadorUniarioTernario1.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\OperadorUniarioTernario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\OperadorUniarioTernario1.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\OperadorUniarioTernario1.AssemblyInfo.cs
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\OperadorUniarioTernario1.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\OperadorUniarioTernario1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\refint\OperadorUniarioTernario1.dll
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\OperadorUniarioTernario1.pdb
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\OperadorUniarioTernario1.genruntimeconfig.cache
+C:\Users\jovan\source\repos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net9.0\ref\OperadorUniarioTernario1.dll
