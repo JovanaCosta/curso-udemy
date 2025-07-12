@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj": {}
+    "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\EntradaDeDados\\EntradaDeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj": {
+    "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\EntradaDeDados\\EntradaDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj",
+        "projectUniqueName": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\EntradaDeDados\\EntradaDeDados.csproj",
         "projectName": "EntradaDeDados",
-        "projectPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj",
+        "projectPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\EntradaDeDados\\EntradaDeDados.csproj",
         "packagesPath": "C:\\Users\\jovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\EntradaDeDados\\obj\\",
+        "outputPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\EntradaDeDados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

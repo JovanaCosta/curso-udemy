@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\1Estrutura_If\\1Estrutura_If.csproj",
+      "projectUniqueName": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\1Estrutura_If\\1Estrutura_If.csproj",
       "projectName": "1Estrutura_If",
-      "projectPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\1Estrutura_If\\1Estrutura_If.csproj",
+      "projectPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\1Estrutura_If\\1Estrutura_If.csproj",
       "packagesPath": "C:\\Users\\jovan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\1Estrutura_If\\obj\\",
+      "outputPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\1Estrutura_If\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\TipoDateTime1\\TipoDateTime1.csproj",
+      "projectUniqueName": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\TipoDateTime1\\TipoDateTime1.csproj",
       "projectName": "TipoDateTime1",
-      "projectPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\TipoDateTime1\\TipoDateTime1.csproj",
+      "projectPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\TipoDateTime1\\TipoDateTime1.csproj",
       "packagesPath": "C:\\Users\\jovan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\TipoDateTime1\\obj\\",
+      "outputPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\TipoDateTime1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

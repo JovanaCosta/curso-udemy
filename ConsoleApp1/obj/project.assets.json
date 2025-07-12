@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\ConsoleApp1\\EstudoListasWill.csproj",
+      "projectUniqueName": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\ConsoleApp1\\EstudoListasWill.csproj",
       "projectName": "EstudoListasWill",
-      "projectPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\ConsoleApp1\\EstudoListasWill.csproj",
+      "projectPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\ConsoleApp1\\EstudoListasWill.csproj",
       "packagesPath": "C:\\Users\\jovan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

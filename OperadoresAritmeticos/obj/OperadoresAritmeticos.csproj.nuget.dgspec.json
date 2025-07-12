@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj": {}
+    "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj": {
+    "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj",
+        "projectUniqueName": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj",
         "projectName": "OperadoresAritmeticos",
-        "projectPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj",
+        "projectPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\OperadoresAritmeticos\\OperadoresAritmeticos.csproj",
         "packagesPath": "C:\\Users\\jovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jovan\\source\\repos\\CSFundamentos1\\OperadoresAritmeticos\\obj\\",
+        "outputPath": "C:\\Users\\jovan\\OneDrive\\Documentos\\desenvolvimento\\curso-udemy\\OperadoresAritmeticos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
