@@ -45,7 +45,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaDoMeuAmor2", "AulaDoMeu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoAprenderPratica1", "ProjetoAprenderPratica1\ProjetoAprenderPratica1.csproj", "{C8508512-456A-4772-B8AF-2400562B094B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BAD57092-E667-4D74-A6C6-354CB73605F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoListasWill", "ConsoleApp1\EstudoListasWill.csproj", "{BAD57092-E667-4D74-A6C6-354CB73605F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trabalho", "trabalho\trabalho.csproj", "{DCD43E4B-6036-4BAE-9BB5-4E812EEF59EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Estrutura_if_else_if", "3Estrutura_if_else_if\3Estrutura_if_else_if.csproj", "{09C00B71-3601-43A5-BDB2-26521F708D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Estrutura_switch_case", "4Estrutura_switch_case\4Estrutura_switch_case.csproj", "{904A4089-388E-456C-80CD-010CC2BDA7BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +147,18 @@ Global
 		{BAD57092-E667-4D74-A6C6-354CB73605F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD57092-E667-4D74-A6C6-354CB73605F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD57092-E667-4D74-A6C6-354CB73605F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD43E4B-6036-4BAE-9BB5-4E812EEF59EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD43E4B-6036-4BAE-9BB5-4E812EEF59EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD43E4B-6036-4BAE-9BB5-4E812EEF59EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD43E4B-6036-4BAE-9BB5-4E812EEF59EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C00B71-3601-43A5-BDB2-26521F708D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C00B71-3601-43A5-BDB2-26521F708D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C00B71-3601-43A5-BDB2-26521F708D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C00B71-3601-43A5-BDB2-26521F708D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904A4089-388E-456C-80CD-010CC2BDA7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904A4089-388E-456C-80CD-010CC2BDA7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904A4089-388E-456C-80CD-010CC2BDA7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904A4089-388E-456C-80CD-010CC2BDA7BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
